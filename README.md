@@ -5,8 +5,6 @@
 - 精神状態や記憶力低下を考慮し、短時間・小単位・外部記憶に依存する学習
 - ツール：Anki、Neovim（Markdownプレビュー可）、Googleスプレッドシート、Krita
 
----
-
 ## 毎日の学習ステップ（20〜40分目安）
 
 1. **技術文読解**
@@ -30,10 +28,8 @@
 
 > 学習量は調子に合わせて柔軟に。1日1〜2段落でもOK。
 
----
-
 ## リポジトリ構成例
-
+```markdown
 english_learning_repo/
 ├─ README.md                     # 学習方針・進捗管理
 ├─ docs/
@@ -50,8 +46,6 @@ english_learning_repo/
     ├─ sentence_001.md           # 文ごとの SVOC Markdown
     ├─ sentence_002.md
     └─ ...
-
----
 
 - **Markdown + Krita図解で外部記憶を最大化**
 - **Googleスプレッドシートで単語・フレーズ・文章を管理**
